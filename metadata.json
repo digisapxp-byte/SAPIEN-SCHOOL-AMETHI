@@ -1,0 +1,6 @@
+{
+  "name": "Sapien School Amethi",
+  "description": "An interactive, gamified elementary educational app with light UI/UX, lessons, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
